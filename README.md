@@ -1,5 +1,8 @@
+# Table de pythagore
+
 Travail à réaliser: 
 
+ - Cloner votre repository personnel
  - Crée un fichier index.php, qui contiendra une structure html de base ( html, head, title,body )
  - La balise title contiendra la mention "table de pythagore"
  - Il y aura aussi une balise h1 avec votre nom et prénom
@@ -18,3 +21,6 @@ Travail à réaliser:
 | 8   | 8   | 16  | 24  | 32  | 40  | 48  | 56  | X   | 72  | 80  |
 | 9   | 9   | 18  | 27  | 36  | 45  | 54  | 63  | 72  | X   | 90  |
 | 10  | 10  | 20  | 30  | 40  | 50  | 60  | 70  | 80  | 90  | X   |
+
+ - Commiter et pusher votre fichier AVANT LE 02 OCTOBRE
+
